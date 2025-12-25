@@ -1,0 +1,5 @@
+{
+  "name": "SmartSDK Support Bot",
+  "description": "An intelligent customer service system where users can upload SDK documentation and historical Q&A to generate a specialized knowledge base for answering customer queries.",
+  "requestFramePermissions": []
+}
